@@ -18,4 +18,15 @@ Eu sou <strong>HueHue</strong>, <strong>e essa é a minha conta do github</stron
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
-</div>
+<div align="center">
+
+![Your github status](https://github-readme-stats.vercel.app/api?username=ArthurHue12&show_icons=true&theme=dark)
+<<<<<<< HEAD
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHue12&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+=======
+>>>>>>> a4a2cab57174f77be8802b734726a13df5e1bab1
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHue12&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+
+  </div>
