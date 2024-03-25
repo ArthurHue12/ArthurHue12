@@ -1,11 +1,11 @@
 # [ArthurHue12] 
 ![Sonic](https://github.com/ArthurHue12/ArthurHue12/blob/main/dg20mpb-3bb1b6ae-c156-435e-9e0d-ee1382b07059.gif?raw=true)
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>HueHue</strong>, <strong>e essa é a minha conta do github</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>sobre o site</strong> 
+- 💬 Pergunte-me sobre: <strong>Desenho, animação e edição de vídeo</strong>
+- 📣 Nós podemos falar em: <strong>Português e inglês</strong>
 
 <div align="center">
 
