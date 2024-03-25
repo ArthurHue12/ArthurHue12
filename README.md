@@ -1,5 +1,5 @@
 # [ArthurHue12] 
-![Sonic](https://github.com/ArthurHue12/ArthurHue12/blob/main/dg20mpb-3bb1b6ae-c156-435e-9e0d-ee1382b07059.gif?raw=true)
+![Sonic](https://github.com/ArthurHue12/ArthurHue12/blob/main/dg8r5vx-eca13087-928c-48ee-a739-14309349ce26.gif?raw=true)
 
 Eu sou <strong>HueHue</strong>, <strong>e essa é a minha conta do github</strong> 👨🏻‍💻 
 
